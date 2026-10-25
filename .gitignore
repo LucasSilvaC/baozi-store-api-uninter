@@ -1,0 +1,23 @@
+target/
+.idea/
+.vscode/
+__pycache__/
+*.iml
+data/
+*.mv.db
+*.trace.db
+
+# Arquivos de entrada e dados pessoais usados para montar a entrega
+/dados.txt
+/ATIVIDADE PRATICA - MODELO.docx
+/TRABALHO DE DESENVOLVIMENTO WEB BACK_2026.pdf
+/postman/Baozi-Store-local.postman_environment.json
+/postman/capturas/*.png
+/postman/capturas/*.jpg
+/entrega/*.pdf
+/entrega/repositorio.txt
+/entrega/newman-results.json
+/entrega/baozi-store-api-source.zip
+/newman-results.json
+/baozi-store-api-source.zip
+/tmp/
