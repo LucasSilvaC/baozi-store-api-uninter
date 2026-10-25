@@ -1,0 +1,51 @@
+{
+  "id": "baozi-store-example-environment",
+  "name": "Baozi Store - exemplo local",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8080",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "nomeCliente",
+      "value": "Cliente de demonstra??o",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "clienteDesde",
+      "value": "2026-10-25",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "produtoNome",
+      "value": "Baozi tradicional de carne",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "precoProduto",
+      "value": "8.50",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "estoqueDisponivel",
+      "value": "true",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "quantidadePedido",
+      "value": "3",
+      "type": "default",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2026-10-25T00:00:00.000Z",
+  "_postman_exported_using": "Postman/11"
+}
